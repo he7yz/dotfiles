@@ -8,3 +8,6 @@ Soon to add;
 - Tmux 
 - networkmanager support in waybar
 - Kitty terminal colorscheme fix
+
+
+## preparing for the transfer.
