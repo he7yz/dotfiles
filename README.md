@@ -1,5 +1,8 @@
 <h1> Arch dotfiles </h1>
-and some other configs
+
+<h3> kuro-zephy </h3>
+<img width="2557" height="1598" alt="image" src="https://github.com/user-attachments/assets/58a11393-26b7-4f60-ac20-878e4d425780" />
+
 
 <h2> Custom Discord CSS Themes</h2>
 - Cyberpunk Themed Translucence
