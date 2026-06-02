@@ -1,8 +1,10 @@
 <h1> Arch dotfiles </h1>
 
+<h3> kuro-vaio </h3>
+<img width="1920" height="1080" alt="kuro-vaio" src="https://github.com/user-attachments/assets/7fd4fb23-e667-4785-abbe-c5da5e445664" />
+
 <h3> kuro-zephy </h3>
 <img width="2557" height="1598" alt="image" src="https://github.com/user-attachments/assets/58a11393-26b7-4f60-ac20-878e4d425780" />
-
 
 <h2> Custom Discord CSS Themes</h2>
 - Cyberpunk Themed Translucence
